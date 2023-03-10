@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 504290855523d444e9cb6a9e6b5cbaef, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  nameCharacter: Moncler
+  _moveSpeed: 2
+  _maxPlayerHealth: 500
+  _damageToEnemy: 100
+  Prefab: {fileID: 8970606528049051880, guid: f847ee0a41b50ef40a1f435c689324cd, type: 3}
+  _bulletSpawnSpeed: 0.5
+  _bulletSpeed: 500

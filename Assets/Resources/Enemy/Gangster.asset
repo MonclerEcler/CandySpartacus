@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96013fcd0de443f4a9a77fc05f10ca1f, type: 3}
+  m_Name: Gangster
+  m_EditorClassIdentifier: 
+  nameEnemy: EnemyGrandfather
+  _maxEnemyHealth: 300
+  _damageToPlayer: 50
+  Prefab: {fileID: 7327591111896668157, guid: 10e6ff707ea320e4a80634c9b0ac9ac7, type: 3}
